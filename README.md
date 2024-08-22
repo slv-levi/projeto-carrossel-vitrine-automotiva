@@ -1,5 +1,5 @@
 # Projeto FP Sellections
-Um projeto interativo, que consiste em um carrosel de imagens, com a finalidade de espor produtos, no caso veiculos esportivos, foi muito desafiador para mim, pois usei metodos diferentes para construção do CSS e JS, foi simplismente incrivelmente construtivo para minha vida profissional com o auxilio do professor<a href="https://www.instagram.com/rodolfomorii/" target="_blank">Rodolfo Mori</a> foi um grande desafio, mas á experiencia foi incrivel!
+Um projeto interativo, que consiste em um carrosel de imagens, com a finalidade de espor produtos, no caso veiculos esportivos, foi muito desafiador para mim, pois usei metodos diferentes para construção do CSS e JS, foi simplismente incrivelmente construtivo para minha vida profissional com o auxilio do professor <a href="https://www.instagram.com/rodolfomorii/" target="_blank">Rodolfo Mori</a> foi um grande desafio, mas á experiencia foi incrivel!
 
 ## Podemos ver atraves dessa aprensentação como ele se comporta, a animação e a interação na troca das images/descrições:
 
